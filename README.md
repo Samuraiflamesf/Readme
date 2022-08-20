@@ -1,21 +1,55 @@
 <div align="center">
   
-# Nome do Projeto - <a href="#">Link da Aplicação</a>
+# Nome do Projeto 📁 <a href="#">Link da Aplicação</a>
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
 </div>
 
-## Implementações/Features  
+![Video-Aplicação](https://user-images.githubusercontent.com/62897976/185768202-9e2fda79-b014-4d99-a10e-1f0852a981a1.gif)
 
- - [ ] Não sei
+<img src="./src/Assets/gif.gif" alt="Descrição da imagem">
+
+# 📄 Tipo do Projeto/Nome do Projeto 
+![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
+![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
+![status-descontinuado](https://user-images.githubusercontent.com/62897976/185768580-1dcbe992-a35c-4f36-8b2b-14d469203d02.svg)
+
+> Resumo do Projeto: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+
+## 🎯 Implementações/Features  
+
+ - [ ] Començando 
+ - [ ] Estilos Globais do Projeto
+ - [ ] Estruturação/Estilização Avançada
+ - [ ] Resolvendo Bugs
+ - [ ] Projeto Finalizado
+
   
-# Layout
+## 🤝 Colaboradores
 
-| Desktop | Android  |
-| ------------------- | ------------------- |
-| <img src="https://github.com/Samuraiflamesf/Page_Cadastro01/blob/main/_components/img/singinpageflamebox.netlify.app_.png?raw=true"> | <img src="https://github.com/Samuraiflamesf/Page_Cadastro01/blob/main/_components/img/singinpageflamebox.netlify.app_(iPad%20Mini).png?raw=true"> |
- 
- 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62897976?s=400&u=afa8e717adda64a162c125cbbbcdfa187b86348a&v=4" width="160px;" alt="Foto do GitHub"/><br>
+        <sub>
+          <b>Bernardo Nogueira -
+Samuraiflamesf</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📕 Links Complementares
+**Link 1**
+- aaa
+- bbb
+
+**Link 2**
+- aaa
+- bbb
