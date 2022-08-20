@@ -34,9 +34,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/62897976?s=400&u=afa8e717adda64a162c125cbbbcdfa187b86348a&v=4" width="160px;" alt="Foto do GitHub"/><br>
-        <sub>
-          <b>Bernardo Nogueira -
-Samuraiflamesf</b>
+          <sub>
+          <b>
+          Bernardo Nogueira - Samuraiflamesf
+          </b>
         </sub>
       </a>
     </td>
