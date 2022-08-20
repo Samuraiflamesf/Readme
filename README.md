@@ -19,7 +19,7 @@
 
 ## 🎯 Implementações/Features
 
-- [ ] Començando
+- [ ] Começando
 - [ ] Estilos Globais do Projeto
 - [ ] Estruturação/Estilização Avançada
 - [ ] Resolvendo Bugs
