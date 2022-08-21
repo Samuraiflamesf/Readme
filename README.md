@@ -1,13 +1,18 @@
 <div align="center">
   
 # Nome do Projeto 📁 <a href="#">Link da Aplicação</a>
-[![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 </div>
 
 ![Video-Aplicação](https://user-images.githubusercontent.com/62897976/185768202-9e2fda79-b014-4d99-a10e-1f0852a981a1.gif)
 
 <img src="./src/Assets/gif.gif" alt="Descrição da imagem">
+
+<div align="center">
+  
+[![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+</div>
 
 # 📄 Tipo do Projeto/Nome do Projeto
 
