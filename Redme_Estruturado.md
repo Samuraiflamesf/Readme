@@ -30,7 +30,7 @@ Eu ea laboris reprehenderit fugiat voluptate incididunt eu consectetur nostrud.
 
 Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit occaecat. Consectetur anim cupidatat qui cupidatat aute minim esse. Reprehenderit laborum pariatur anim cillum anim cupidatat fugiat enim elit ex labore. Veniam laboris officia sunt consequat. Nostrud aute ullamco eiusmod reprehenderit consequat. Duis nisi commodo sit nostrud elit.
 
-## 🎯 Implementações/Features
+### 🎯 Implementações/Features
 
 - [ ] Começando
 - [ ] Estilos Globais do Projeto
