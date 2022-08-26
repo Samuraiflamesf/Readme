@@ -37,7 +37,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/Samuraiflamesf">
         <img src="https://avatars.githubusercontent.com/u/62897976?s=400&u=afa8e717adda64a162c125cbbbcdfa187b86348a&v=4" width="160px;" alt="Foto do GitHub"/><br>
           <sub>
           <b>
@@ -49,7 +49,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 📕 Links Complementares
+## 📕 Referencias e Links Complementares
 
 **Link 1**
 
