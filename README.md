@@ -3,6 +3,6 @@
 
 ## 📕 Projetos
 
-[**Readme - Simples**](https://github.com/Samuraiflamesf/Redme-NewProject/blob/main/Redme_Simples.md)
+[**Readme - Simples**](https://github.com/Samuraiflamesf/Readme-NewProject/blob/main/README_Simples.md)
 
-[**Readme - Estruturado**](https://github.com/Samuraiflamesf/Redme-NewProject/blob/main/Redme_Estruturado.md)
+[**Readme - Estruturado**](https://github.com/Samuraiflamesf/Readme-NewProject/blob/main/README_Estruturado.md)
