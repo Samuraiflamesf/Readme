@@ -1,4 +1,4 @@
-# Readme-NewProject
+# Readme - Para Projetos
 > Um modelo para ajudar a criar projetos de código aberto.  🚀🚀🌚
 
 ## 📕 Projetos
