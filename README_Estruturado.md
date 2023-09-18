@@ -5,18 +5,19 @@
 
 [![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-	
 </h4>
 
 ## Tabela de Conteúdos
 
+- [Nome do Projeto](#nome-do-projeto-)
 - [Resumo do Projeto](#resumo-do-projeto)
 - [Objetivo da Intervenção](#objetivo-da-intervenção)
-- [Roadmap 🎯](#roadmap-)
-- [Como implementar o projeto](#Como-implementar-o-projeto)
+- [Roadmap](#roadmap-)
+- [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
 - [Anexos](#anexos)
-- [Colaboradores 🤝](#colaboradores-)
-- [Referências e Links Complementares 📕](#referências-e-links-complementares-)
+- [Colaboradores](#colaboradores-)
+- [Referências e Links Complementares](#referências-e-links-complementares-)
+
 
 ### Resumo do Projeto
 
@@ -34,7 +35,7 @@ Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit 
 - [ ] Resolvendo Bugs
 - [ ] Projeto Finalizado
 
-## Como implementar o projeto
+## 🎲 Rodando o Back End (servidor)
 
 Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa exercitation magna cupidatat qui incididunt commodo do ex elit et anim. Qui quis tempor cupidatat commodo. Excepteur tempor nulla ea mollit proident proident fugiat sit reprehenderit consequat. Eu laboris aliqua culpa deserunt cupidatat amet.
 
