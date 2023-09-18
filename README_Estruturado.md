@@ -13,7 +13,7 @@
 - [Resumo do Projeto](#resumo-do-projeto)
 - [Objetivo da Intervenção](#objetivo-da-intervenção)
 - [Roadmap 🎯](#roadmap-)
-- [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
+- [Rodando o Back End (servidor) 🎲](#rodando-o-back-end-servidor)
 - [Anexos](#anexos)
 - [Colaboradores 🤝](#colaboradores-)
 - [Referências e Links Complementares 📕](#referências-e-links-complementares-)
@@ -34,7 +34,7 @@ Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit 
 - [ ] Resolvendo Bugs
 - [ ] Projeto Finalizado
 
-## 🎲 Rodando o Back End (servidor)
+## Rodando o Back End (servidor) 🎲
 
 Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa exercitation magna cupidatat qui incididunt commodo do ex elit et anim. Qui quis tempor cupidatat commodo. Excepteur tempor nulla ea mollit proident proident fugiat sit reprehenderit consequat. Eu laboris aliqua culpa deserunt cupidatat amet.
 
