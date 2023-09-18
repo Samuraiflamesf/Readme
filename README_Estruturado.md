@@ -9,15 +9,14 @@
 
 ## Tabela de Conteúdos
 
-- [Nome do Projeto](#nome-do-projeto-)
+- [Nome do Projeto 📁](#nome-do-projeto-)
 - [Resumo do Projeto](#resumo-do-projeto)
 - [Objetivo da Intervenção](#objetivo-da-intervenção)
-- [Roadmap](#roadmap-)
+- [Roadmap 🎯](#roadmap-)
 - [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
 - [Anexos](#anexos)
-- [Colaboradores](#colaboradores-)
-- [Referências e Links Complementares](#referências-e-links-complementares-)
-
+- [Colaboradores 🤝](#colaboradores-)
+- [Referências e Links Complementares 📕](#referências-e-links-complementares-)
 
 ### Resumo do Projeto
 
