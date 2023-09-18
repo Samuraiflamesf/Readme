@@ -1,20 +1,28 @@
 <div align="center">
   
 # Nome do Projeto 📁 <a href="#">Link da Aplicação</a>
-
+  
 </div>
-
-![Video-Aplicação](https://user-images.githubusercontent.com/62897976/185768202-9e2fda79-b014-4d99-a10e-1f0852a981a1.gif)
-
-<img src="./src/Assets/gif.gif" alt="Descrição da imagem">
-
 <div align="center">
   
 [![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 </div>
 
-# 📄 Tipo do Projeto/Nome do Projeto
+## Tabela de Conteúdos
+
+- [Nome do Projeto](#nome-do-projeto)
+- [Status](#status)
+- [Resumo do Projeto](#resumo-do-projeto)
+- [Situação Problema](#situação-problema)
+- [Objetivo da Intervenção](#objetivo-da-intervenção)
+- [Implementações/Features](#implementaçõesfeatures)
+- [Considerações Finais](#considerações-finais)
+- [Anexos](#anexos)
+- [Colaboradores](#colaboradores)
+- [Referências e Links Complementares](#referências-e-links-complementares)
+
+## Nome do Projeto
 
 ![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
 ![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
@@ -32,7 +40,7 @@ Eu ea laboris reprehenderit fugiat voluptate incididunt eu consectetur nostrud.
 
 Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit occaecat. Consectetur anim cupidatat qui cupidatat aute minim esse. Reprehenderit laborum pariatur anim cillum anim cupidatat fugiat enim elit ex labore. Veniam laboris officia sunt consequat. Nostrud aute ullamco eiusmod reprehenderit consequat. Duis nisi commodo sit nostrud elit.
 
-### 🎯 Implementações/Features
+### Implementações/Features
 
 - [ ] Começando
 - [ ] Estilos Globais do Projeto
@@ -46,11 +54,9 @@ Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa 
 
 ## Anexos
 
-<a href="#">
-  <img src=""  width="160px;">
-</a>
+![Imagem de Anexo](#) <!-- Inserir o link da imagem aqui -->
 
-## 🤝 Colaboradores
+## Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -68,7 +74,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 📕 Referencias e Links Complementares
+## Referências e Links Complementares
 
 **Link 1**
 
