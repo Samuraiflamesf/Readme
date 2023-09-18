@@ -1,45 +1,32 @@
-<div align="center">
+<h4 align="center"> 
   
-# Nome do Projeto 📁 <a href="#">Link da Aplicação</a>
-  
-</div>
-<div align="center">
-  
+# Nome do Projeto 📁 <a href="#">Link da Aplicação</a>   
+🚧  React Select 🚀 Em construção...  🚧
+
 [![Tech](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-</div>
-
-
-## Nome do Projeto
-
-![status-finalizado](https://user-images.githubusercontent.com/62897976/185768561-589083e1-f18f-480b-9709-0ca24acf9c6d.svg)
-![status-em-andamento](https://user-images.githubusercontent.com/62897976/185768581-1d051a52-2e60-4378-b31d-39028cbfb5c8.svg)
-![status-descontinuado](https://user-images.githubusercontent.com/62897976/185768580-1dcbe992-a35c-4f36-8b2b-14d469203d02.svg)
-
+	
+</h4>
 
 ## Tabela de Conteúdos
 
-- [Situação Problema](#situação-problema)
+- [Resumo do Projeto](#resumo-do-projeto)
 - [Objetivo da Intervenção](#objetivo-da-intervenção)
-- [Roadmap](#Roadmap)
-- [Considerações Finais](#considerações-finais)
+- [Roadmap 🎯](#Roadmap)
+- [Como implementar o projeto](#Como-implementar-o-projeto)
 - [Anexos](#anexos)
-- [Colaboradores](#colaboradores)
-- [Referências e Links Complementares](#referências-e-links-complementares)
+- [Colaboradores 🤝](#colaboradores-)
+- [Referências e Links Complementares 📕](#referências-e-links-complementares-)
 
 ### Resumo do Projeto
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
 
-### Situação Problema
-
-Eu ea laboris reprehenderit fugiat voluptate incididunt eu consectetur nostrud.
-
 ### Objetivo da Intervenção
 
 Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit occaecat. Consectetur anim cupidatat qui cupidatat aute minim esse. Reprehenderit laborum pariatur anim cillum anim cupidatat fugiat enim elit ex labore. Veniam laboris officia sunt consequat. Nostrud aute ullamco eiusmod reprehenderit consequat. Duis nisi commodo sit nostrud elit.
 
-### Roadmap
+### Roadmap 🎯
 
 - [ ] Começando
 - [ ] Estilos Globais do Projeto
@@ -47,7 +34,7 @@ Nulla ipsum est do reprehenderit anim voluptate deserunt quis veniam quis velit 
 - [ ] Resolvendo Bugs
 - [ ] Projeto Finalizado
 
-## Considerações Finais
+## Como implementar o projeto
 
 Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa exercitation magna cupidatat qui incididunt commodo do ex elit et anim. Qui quis tempor cupidatat commodo. Excepteur tempor nulla ea mollit proident proident fugiat sit reprehenderit consequat. Eu laboris aliqua culpa deserunt cupidatat amet.
 
@@ -55,7 +42,7 @@ Deserunt occaecat non aliqua sit et anim ex amet elit pariatur. Cupidatat culpa 
 
 ![Imagem de Anexo](#) <!-- Inserir o link da imagem aqui -->
 
-## Colaboradores
+## Colaboradores 🤝
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -73,7 +60,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## Referências e Links Complementares
+## Referências e Links Complementares 📕
 
 **Link 1**
 
